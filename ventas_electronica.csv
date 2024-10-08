@@ -1,0 +1,65 @@
+Fecha de Venta,Producto Vendido,Cantidad Vendida,Precio Unitario
+2023-08-01,Smartphone,10,300.00
+2023-08-02,Laptop,5,900.00
+2023-08-03,Tablet,8,200.00
+2023-08-04,Smart TV,3,500.00
+2023-08-05,Auriculares Bluetooth,12,50.00
+2023-08-06,,6,150.00
+2023-08-07,Consola de Videojuegos,4,350.00
+2023-08-08,Altavoces Inalámbricos,7,80.00
+2023-08-09,Cámara DSLR,2,700.00
+2023-08-10,Reproductor de Blu-ray,9,70.00
+2023-08-11,Refrigerador Inteligente,1,1200.00
+2023-08-12,Lavadora de Ropa,3,NaN
+2023-08-13,Horno de Microondas,6,80.00
+2023-08-14,Aspiradora Robot,4,250.00
+2023-08-15,Aire Acondicionado,2,800.00
+2023-08-16,Robot de Cocina,7,150.00
+2023-08-17,Monitor de PC,5,180.00
+2023-08-18,Teclado Inalámbrico,10,30.00
+2023-08-19,Ratón Óptico,15,15.00
+2023-08-20,Router WiFi,8,50.00
+2023-08-21,Escáner de Documentos,3,100.00
+2023-08-22,Impresora 3D,2,400.00
+2023-08-23,Disco Duro Externo,11,70.00
+2023-08-24,Proyector,4,300.00
+2023-08-25,Cafetera Inteligente,7,80.00
+2023-08-26,Plancha de Ropa,6,40.00
+2023-08-27,Purificador de Aire,5,120.00
+2023-08-28,Batidora de Mano,8,25.00
+2023-08-29,Máquina de Ejercicio,3,600.00
+2023-08-30,Reproductor de DVD,4,40.00
+2023-09-01,Hervidor de Agua,-9,20.00
+2023-09-02,Plancha de Pelo,5,30.00
+2023-09-03,Reloj Inteligente,12,100.00
+2023-09-04,Altavoz Bluetooth,7,60.00
+2023-09-05,Cámara de Seguridad,6,90.00
+2023-09-06,Termómetro Digital,2.5,10.00
+2023-09-07,Calentador de Agua,1,300.00
+2023-09-08,Robot Limpiador de Pisos,3,200.00
+2023-09-09,Ventilador de Torre,10,40.00
+2023-09-10,Lavaplatos Automático,4,600.00
+2023-09-11,Cafetera de Espresso,8,150.00
+2023-09-12,Cámara Deportiva,7.01,80.00
+2023-09-13,,5,120.00
+2023-09-14,Cargador de Teléfono,15,10.00
+2023-09-15,Plancha de Asar,6,40.00
+2023-09-16,Smartwatch,9,70.00
+2023-09-17,Batidora de Vaso,3,50.00
+2023-09-18,Tostadora,2,25.00
+2023-09-19,Enrutador de Red,11,30.00
+2023-09-20,Monitor de Bebé,4,90.00
+2023-09-20,,3,400.00
+2023-09-22,Horno de Pizza,4,NaN
+2023-09-23,NaN,5,200.00
+2023-09-24,Refrigerador Inteligente,3,-150.00
+2023-09-25,Laptop,2,NaN
+2023-09-26,Impresora 3D,5,400.00
+2023-09-27,Proyector,3,300.00
+2023-09-28,Aspiradora Robot,NaN,250.00
+2023-09-29,Cafetera Inteligente,5,NaN
+2023-09-30,Hervidor de Agua,6,NaN
+2023-09-30,Lavadora,NaN,400.00
+2023-10-02,Robot de Cocina,4,400.00
+2023-10-03,Router WiFi,2,NaN
+2023-10-04,Escáner de Documentos,NaN,100.00
