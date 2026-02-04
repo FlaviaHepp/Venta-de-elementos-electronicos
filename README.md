@@ -110,4 +110,4 @@ Los gráficos permiten una **interpretación clara del comportamiento de ventas*
 ## 👤 Autor
 
 **Flavia Hepp**  
-Data Analyst en formación  
+Data Analyst
